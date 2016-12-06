@@ -1,4 +1,4 @@
-/*  */
+/* Copyright (c) 2016 nebulaM*/
 package com.github.android.backend;
 
 public class Player {

@@ -1,5 +1,5 @@
 /*
-*  
+* Copyright (C) 2016 nebulaM
 * Modified from Android's Tutorial on drawing a 2D square using OpenGl:
 * https://developer.android.com/training/graphics/opengl/draw.html
 * License: Apache 2.0

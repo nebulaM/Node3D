@@ -1,5 +1,5 @@
 /*
-*  
+* Modified by nebulaM
 * Support zoom/moving/rotation of the objects.
 */
 /*

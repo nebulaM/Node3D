@@ -1,4 +1,4 @@
-/*  
+/* Copyright (c) 2016 nebulaM
 *  Generate a given number of nodes and random number of edges between nodes in a 3D coordinate
 *  Take into account of existing edges so there will not be diagonal edges make a cross.
 *  i.e., at most 1 diagonal edge exists in a square-shaped coordinate formulated by 4 nodes;

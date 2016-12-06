@@ -1,4 +1,4 @@
-/*  */
+/* Copyright (c) 2016 nebulaM*/
 package com.github.android.backend;
 /**
  * Stores information on whether a node is used or not, and node coordinates
